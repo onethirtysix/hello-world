@@ -1,2 +1,4 @@
 # hello-world
-just my tutorial depository
+
+
+Just going through the tutorial.
